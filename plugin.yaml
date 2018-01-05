@@ -1,0 +1,6 @@
+plugin:
+    name: 'raomingchao.qiniuadapter::lang.plugin.name'
+    description: 'raomingchao.qiniuadapter::lang.plugin.description'
+    author: raomingchao
+    icon: oc-icon-truck
+    homepage: ''
